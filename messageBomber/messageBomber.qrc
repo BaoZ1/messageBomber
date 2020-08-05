@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/messageBomber">
+        <file>Resources/messageBomber.ico</file>
+    </qresource>
+</RCC>
